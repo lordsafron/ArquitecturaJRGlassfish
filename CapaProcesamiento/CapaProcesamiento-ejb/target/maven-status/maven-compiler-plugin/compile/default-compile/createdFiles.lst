@@ -1,0 +1,4 @@
+com\hm\capadominioglassfish\commons\CRUDOperations.class
+com\hm\capadominioglassfish\ejb\EstadoEJB.class
+com\hm\capadominioglassfish\commons\AbstractDAO.class
+com\hm\capadominioglassfish\ejb\MunicipioEJB.class

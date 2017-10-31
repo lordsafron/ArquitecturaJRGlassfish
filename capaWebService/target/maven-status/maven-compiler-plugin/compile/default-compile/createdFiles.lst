@@ -1,0 +1,9 @@
+com\hm\capadominioglassfish\capawebservice\resource\MunicipioResource.class
+com\hm\capadominioglassfish\capawebservice\servicio\ifaceMunicipio.class
+com\hm\capadominioglassfish\capawebservice\servicio\ServiceMunicipio.class
+com\hm\capadominioglassfish\capawebservice\servicio\ServiceEstado.class
+com\hm\capadominioglassfish\capawebservice\resource\CrossOriginResourceSharingFilter.class
+com\hm\capadominioglassfish\capawebservice\resource\ApplicationConfig.class
+com\hm\capadominioglassfish\capawebservice\resource\EntidadPersona.class
+com\hm\capadominioglassfish\capawebservice\servicio\ifaceEstado.class
+com\hm\capadominioglassfish\capawebservice\resource\EstadoResource.class

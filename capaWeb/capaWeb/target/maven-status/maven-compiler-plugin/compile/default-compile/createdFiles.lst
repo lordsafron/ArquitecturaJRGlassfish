@@ -1,0 +1,4 @@
+com\hm\capadominioglassfish\bean\EstadoBean.class
+com\hm\capadominioglassfish\util\Utilidades.class
+com\hm\capadominioglassfish\servicio\ServiceEstado.class
+com\hm\capadominioglassfish\servicio\ifaceEstado.class
